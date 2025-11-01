@@ -1,0 +1,4 @@
+Sigmoid NGO promotes data science education and ethical AI development through the annual LMML competition.
+The event gathers participants worldwide to solve real-world machine learning challenges in areas like computer vision and NLP.
+It encourages collaboration, innovation, and inclusivity while helping individuals build careers in AI.
+Through mentorship, resources, and partnerships, Sigmoid NGO continues to strengthen the global AI community and foster new talent.
